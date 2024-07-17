@@ -1,0 +1,32 @@
+[
+    {
+     "productName":"Mobile",
+     "brand":"Samsung",
+     "productId":1,
+     "category":"Gadgets"
+    },
+    {
+        "productName":"Television",
+        "brand":"Samsung",
+        "productId":2,
+        "category":"Electronics"
+    },
+    {
+        "productName":"Basketball",
+        "brand":"Adidas",
+        "productId":3,
+        "category":"Sports"
+    },
+    {
+        "productName":"Bat",
+        "brand":"Nike",
+        "productId":4,
+        "category":"Sports"
+    },
+    {
+        "productName":"Laptop",
+        "brand":"Dell",
+        "productId":5,
+        "category":"Gadgets"
+    }
+]

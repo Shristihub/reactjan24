@@ -1,0 +1,9 @@
+.contactHeader h1{
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 72px;
+}
+.contactHeader p{
+    font-weight: 600;
+    line-height: 24px;
+}

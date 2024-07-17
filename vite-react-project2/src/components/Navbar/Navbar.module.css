@@ -1,0 +1,19 @@
+.nav_container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    display: flex;
+    /* width: 72px; */
+    height: 72px;
+    margin-top: 4px;
+    margin-left: 4px;
+    justify-content: center;
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+    gap:24px;
+    margin-right: 20px;
+}
